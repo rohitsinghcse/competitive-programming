@@ -10,8 +10,8 @@ package codefight;
 public class Passcode {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//test case 1 
+		
+//test case 1 
 //		String[] attempts = {"1111", "4444",
 //		                      "9999", "3333",
 //		                      "8888", "2222",
